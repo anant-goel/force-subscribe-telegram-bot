@@ -7,21 +7,24 @@
         "promoter",
         "subscriber"
     ],
-    "repository": "https://github.com/viperadnan-git/force-subscribe-telegram-bot",
-    "success_url": "https://github.com/viperadnan-git/force-subscribe-telegram-bot",
+    "repository": "https://github.com/anant-goel/force-subscribe-telegram-bot",
+    "success_url": "https://github.com/anant-goel/force-subscribe-telegram-bot",
     "env": {
         "APP_ID": {
             "description": "Get this value by creating an app on https://my.telegram.org!"
+            "value": "17372560"
         },
         "API_HASH": {
             "description": "Get this value by creating an app on https://my.telegram.org!"
+            "value": "e4d5f831cc33652445762eaf8a83aa62"
         },
         "BOT_TOKEN": {
             "description": "Bot token generated from https://t.me/BotFather (https://t.me/botfather)"
+            "value": "5176892608:AAFK9_WfsctpH3wJy_kHr8gOmaCESyJYc6Y"
         },
         "SUDO_USERS": {
             "description": "List of sudo user ids seperated by space.",
-            "value": "999197022 00000000"
+            "value": "873948892 1322082451 1609762343"
         }
     },
     "addons": [
